@@ -1,0 +1,90 @@
+;Code famille;Code attribut;Attribut lib_x;Format_x;Facet_x;Valeur;Nombre de produits concernes_x;Attribut lib_y;Format_y;Facet_y;Nombre de produits concernes_y
+0;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p><strong>visiosat commutateur vne g3-g4</strong> - système de distribution des signaux tv et sat.</p>;1;Description;;0;1
+1;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>ajustable pour mâts ou bras de déport ø 35 à 50</p>;1;Description;;0;1
+2;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>bride diamètre 8mm + pontets </p>;1;Description;;0;1
+3;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cabelcon den quick c6 dénudeur cable coaxial compact pr 19/17</p>;1;Description;;0;1
+4;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors mix sat-tv in - coupleur sat-tv - usage intérieur</p>;1;Description;;0;1
+5;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors msv 17.8 a commutateur 17 entrées / 8 sorties</p>;1;Description;;0;1
+6;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors msv 5.12 a commutateur 5 entrées / 12 sorties</p>;1;Description;;0;1
+7;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors msv 9.12 a commutateur 9 entrées / 12 sorties</p>;1;Description;;0;1
+8;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors msv 9.8 a commutateur 9 entrées / 8 sorties</p>;1;Description;;0;1
+9;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors vde 220 dérivateur 2 directions 20 db 5-2300 mhz</p>;1;Description;;0;1
+10;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>cahors vde 820 dérivateur 8 directions  20 db 5-2300 mhz</p>;1;Description;;0;1
+11;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>coupleur 2 entrées fm / vhf-uhf cc rej fm</p>;1;Description;;0;1
+12;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>câble d'antenne 75 ohms mâle / femelle et adaptateur mâle / mâle getbl - 681, longueur 2 mètres</p>;1;Description;;0;1
+13;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>câble d'antenne fm iec mâle 9,5 mm getbl - 684, longueur 2 mètres</p>;1;Description;;0;1
+14;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>câble d'antenne mâle / femelle getbl - 5261, longueur 1,5 mètre</p>;1;Description;;0;2
+15;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;"<p>câble satellite mâle type ""f"" double blindage getbl - 826, longueur 10 mètres</p>";1;Description;;0;2
+16;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;"<p>câble satellite mâle type ""f"" double blindage getbl - 828, longueur 20 mètres</p>";1;Description;;0;1
+17;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>feuillard galvanisé 25 m epaisseur 6/10 mm, largeur 40 mm</p>;1;Description;;0;1
+18;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>fixation de cheminée simple, à étrier, pour mâts de ø 30 à 50</p>;1;Description;;0;1
+19;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>fixation double extra-forte pour mâts de ø 30 à 50</p>;1;Description;;0;1
+20;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>le kit préamplificateur de mât vka101 est conçu pour amplifier le signal de la tnt (dvb-t). Le gain est ajustable par potentiomètre sur chaque entrée. <br /><br />- fort gain 15-35 db (réglable) <br />- réjection lte/4g plus performante (typ:16 db, max:> 30 db)</p>;1;Description;;0;1
+21;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>lnb fibre optique invacom 0,1 db - repoussez les limites de la distribution satellite!</p>;1;Description;;0;1
+22;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>lnb single megasat</p>;1;Description;;0;1
+23;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>megasat 5/12 multicommutateur autonome pour la réception d'un satellite avec une entrée antenne terrestre tnt et alimentation externe, et la distribution à un maximum de 12 utilisateurs (récepteurs).</p>;1;Description;;0;1
+24;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>megasat 5/16 multicommutateur autonome pour la réception d'un satellite avec une entrée antenne terrestre tnt et alimentation externe, et la distribution à un maximum de 16 utilisateurs (récepteurs).</p>;1;Description;;0;1
+25;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>megasat 9/16 multicommutateur autonome pour la réception de deux satellites avec une entrée antenne terrestre tnt et alimentation externe, et la distribution à un maximum de 16 utilisateurs (récepteurs).</p>;1;Description;;0;1
+26;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>megasat multiswitch 5/8 1ter/1sat sur 8 demos full hd</p>;1;Description;;0;1
+27;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>multiswitch centrale diseqc megasat 9/8 1ter/2sat sur 8 demos</p>;1;Description;;0;1
+28;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>multiswitch visiosat 5 entrées (4 sat + 1 ter) 8 sorties</p>;1;Description;;0;1
+29;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>permet de stocker un rouleau de feuillard</p>;1;Description;;0;1
+30;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>pour feuillards acier et inox</p>;1;Description;;0;1
+31;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>prise antenne tv et fm - pose encastrée ou en saillie. Couvercle inclus</p>;1;Description;;0;1
+32;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>prise tv/sat/fm pour pose encastrée ou en saillie avec couvercle inclus.</p>;1;Description;;0;1
+33;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>support bisat g3a 3 lnb astra 19,2° e astra 28,2° e hotbird 13°e</p>;1;Description;;0;1
+34;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>support g3 3 lnb pour smc 100 cahors - astra 19,2°, astra 28,2° et hotbird 13°</p>;1;Description;;0;1
+35;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>support lnb astra 19.2° est/astra 23.5° est/hotbird 13° pour bisat g3b + 3 lnb</p>;1;Description;;0;1
+36;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>support lnb bisat g2 2 lnb astra 19,2° e / hotbird 13° e</p>;1;Description;;0;1
+37;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>visiosat 0914237 support 6° pour 2 lnb fixe pour antenne smc 80</p>;1;Description;;0;1
+38;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;<p>visiosat vka 201 ps - préamplificateur 2e vhf/uhf</p>;1;Description;;0;1
+39;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Bras de cyclage sup+rieur,gris electrolux. Pièce d'origine fabricant contrôlée;1;Description;;0;2
+40;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Bras de déport mural erard 001950;1;Description;;0;2
+41;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Ce cordon satellite, permet de nombreuses et multiples combinaisons pour relier entre eux tous types d'appareils, tels que : lnb d'antenne satellite, antenne hertzienne tnt, antenne intérieure, téléviseur, magnétoscope, décodeur, démodulateur satellite, dvd, etc.;4;Description;;0;4
+42;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Centrales programmables johansson 6630/;1;Description;;0;1
+43;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Collier 940 brandt. Pièce d'origine fabricant contrôlée;1;Description;;0;3
+44;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Connecteur f à compression elbac 953017 k 05;1;Description;;0;1
+45;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Câble satellite hexakit htv 4981;1;Description;;0;2
+46;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Enjoliveur céliane legrand prise hp simple blanc;1;Description;;0;1
+47;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fiche coaxiale camera 91 m/1;1;Description;;0;1
+48;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fiche coaxiale elbac 955017;1;Description;;0;1
+49;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fiche iecf elbac 969317;1;Description;;0;1
+50;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fiche iecm elbac 969217;1;Description;;0;1
+51;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fiche mâle à compression elbac 953015-k 05;1;Description;;0;1
+52;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Filtre egaliseur rejecteur wisi dl 72;1;Description;;0;2
+53;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Filtre lte / 4g wisi dl 81;1;Description;;0;2
+54;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fixation satellite en l cfr fse 2640;1;Description;;0;1
+55;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Fixation satellite en l cfr fse 3640;1;Description;;0;1
+56;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Kit preamplificateur 3 entrees lte 700 gain 15 30 db 567810 televes. Pièces et accessoires d'origine fabricant contrôlés.;1;Description;;0;2
+57;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Nc;129;Description;;0;620
+58;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Ressort de charniere de porte bosch 00426021. Pièce d'origine fabricant contrôlée;1;Description;;0;2
+59;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Répartiteur 3 voies fracarro spt 3;1;Description;;0;1
+60;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Répartiteur alcad fi 594;1;Description;;0;2
+61;1070;X_ATTR_MP_X_ATTR_7700;Description;;0;Utilisez ce câble coaxial pour relier un téléviseur à une antenne tv (intérieure ou extérieure), ou à un magnétoscope. Il est constitué d'une fiche coaxiale mâle aux normes européennes pal (ø9,52 mm).;2;Description;;0;4
+62;1070;X_ATTR_MP_type;Type;;0;MAJ;31;Type;;0;1462
+63;14802;X_ATTR_MP_X_ATTR_362846;Type;;1;Autres;3;Type;;1;87
+64;14802;X_ATTR_MP_X_ATTR_362846;Type;;1;Support mural;2;Type;;1;39
+65;14802;X_ATTR_MP_X_ATTR_362846;Type;;1;Support plafond;2;Type;;1;62
+66;16852;X_ATTR_MP_X_ATTR_45600;Un adaptateur HDMI/DVI;;1;non;196;Un adaptateur HDMI/DVI;;1;1067
+67;16852;X_ATTR_MP_X_ATTR_45600;Un adaptateur HDMI/DVI;;1;oui;2324;Un adaptateur HDMI/DVI;;1;3564
+68;16852;X_ATTR_MP_X_ATTR_45601;Un adaptateur péritel;;1;non;233;Un adaptateur péritel;;1;1717
+69;16852;X_ATTR_MP_X_ATTR_45601;Un adaptateur péritel;;1;oui;2287;Un adaptateur péritel;;1;2914
+70;16852;X_ATTR_MP_X_ATTR_45602;Un adaptateur coaxial;;1;non;213;Un adaptateur coaxial;;1;1694
+71;16852;X_ATTR_MP_X_ATTR_45602;Un adaptateur coaxial;;1;oui;2307;Un adaptateur coaxial;;1;2937
+72;16852;X_ATTR_MP_type;Type;;0;MAJ;2;Type;;0;660
+73;274591;X_ATTR_MP_type;Type;;0;MAJ;1;Type;;0;69
+74;289564;X_ATTR_MP_type;Type;;0;MAJ;2;Type;;0;41
+75;575;X_ATTR_MP_X_ATTR_129588;Compatible Haute Définition;;1;oui;5;Compatible Haute Définition;;1;285
+76;575;X_ATTR_MP_X_ATTR_8396;Boîtier multi-diffusion;;1;oui;5;Boîtier multi-diffusion;;1;290
+77;575;X_ATTR_MP_X_ATTR_8397;Boîtier multi-péritel;;1;oui;5;Boîtier multi-péritel;;1;276
+78;575;X_ATTR_MP_type;Type;;0;MAJ;2;Type;;0;138
+79;580;X_ATTR_MP_X_ATTR_8423;Coque de protection;;1;non;12;Coque de protection;;1;3998
+80;580;X_ATTR_MP_X_ATTR_8423;Coque de protection;;1;oui;22;Coque de protection;;1;472
+81;580;X_ATTR_MP_X_ATTR_8424;Piloter votre home cinéma;;1;non;2;Piloter votre home cinéma;;1;3471
+82;580;X_ATTR_MP_X_ATTR_8424;Piloter votre home cinéma;;1;oui;32;Piloter votre home cinéma;;1;999
+83;580;X_ATTR_MP_X_ATTR_8425;Remplacer la télécommande;;1;non;2;Remplacer la télécommande;;1;1867
+84;580;X_ATTR_MP_X_ATTR_8425;Remplacer la télécommande;;1;oui;32;Remplacer la télécommande;;1;2603
+85;580;X_ATTR_MP_X_ATTR_8426;Télécommande pour zapper;;1;non;10;Télécommande pour zapper;;1;1107
+86;580;X_ATTR_MP_X_ATTR_8426;Télécommande pour zapper;;1;oui;24;Télécommande pour zapper;;1;3363
+87;580;X_ATTR_MP_type;Type;;0;MAJ;10;Type;;0;329
+88;cabl_connect_vid;X_ATTR_MP_type;Type;;0;ACC;1;Type;;0;30
